@@ -56,5 +56,5 @@ class capacitor:
 
 
     def forward(self, mode, energy_input):
-        return self.update_energy(self, mode, energy_input)
+        return self.update_energy(mode, energy_input)
         
